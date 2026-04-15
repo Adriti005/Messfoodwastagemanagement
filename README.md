@@ -1,5 +1,5 @@
 
-# 🍽️ Hostel Food Wastage Prediction & Optimization System
+# 🍽️ Hostel Food Wastage Prediction & Optimization System.
 
 A **full-stack AI-powered web application** that predicts hostel food wastage, recommends optimized cooking quantities, and visualizes trends through an interactive dashboard.
 
