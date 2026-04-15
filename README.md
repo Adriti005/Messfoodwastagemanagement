@@ -5,7 +5,7 @@ A **full-stack AI-powered web application** that predicts hostel food wastage, r
 
 ---
 
-## 🚀 Overview
+## 🚀 Overview.
 
 Food wastage in hostels and cafeterias often happens due to **guess-based cooking decisions**. This leads to:
 
